@@ -21,8 +21,8 @@
 
 In order to develop the DECODE™ Scorer for Android, you must have the following:
 
-- Android Studio Meerkat or later
-- API Level 34+ Simulator Runtimes
+- Android Studio Koala or later
+- API Levels 33-36 Simulator Runtimes
 
 ### Project Setup
 
